@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @cn-kp
-- 👀 I’m interested in a lot of things
-- 🌱 I’m currently learning html, css, javascript for front and back end web development
+- 👋 Hi, I’m Kevin
+- 🌱 I’m currently studying full stack web development and civil engineering
 - 💞️ I’m looking to collaborate on web design and development
 - 📫 How to reach me email me @ kpeng.work1@gmail.com
+- 👀 Checkout my portfolio at https://cn-kp.github.io/homework7-New-Portfolio/
 
 <!---
 cn-kp/cn-kp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

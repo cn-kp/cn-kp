@@ -1,4 +1,4 @@
--👋 Hi, I’m Kevin, a full Stack Web developer with a leveraging background in Civil Engineering and Commerce to provide unique perspectives on with websites and software platforms. Studying to earn a certificate in Full Stack Web Development from the University of Sydney Coding Boot Camp and current student at UNSW for Civil Engineering and Commerce.
+-👋 Hi, I’m Kevin, a full Stack Web developer with a leveraging background in Civil Engineering and Commerce to provide unique perspectives on websites and software platforms. Studying to earn a certificate in Full Stack Web Development from the University of Sydney Coding Boot Camp and current student at UNSW for Civil Engineering and Commerce.
 
 -🌱Interested in collaborating in group projects and developing full stack websites.
 

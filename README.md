@@ -17,12 +17,13 @@ Interested in collaborating in group projects and developing full stack websites
 #### Resume
 - :paperclip: [My Resume/CV](link to resume here)
 
+<details>
 <summary>
   More stuff about me
 </summary>
 
 <br >
-
+</details>
 <!---
 cn-kp/cn-kp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

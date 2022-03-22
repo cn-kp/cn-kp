@@ -1,3 +1,9 @@
+## Hi I'm Kevin <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
+
+
+
+
 -👋 Hi, I’m Kevin, a full Stack Web developer with a leveraging background in Civil Engineering and Commerce to provide unique perspectives on websites and software platforms. Studying to earn a certificate in Full Stack Web Development from the University of Sydney Coding Boot Camp and current student at UNSW for Civil Engineering and Commerce.
 
 -🌱Interested in collaborating in group projects and developing full stack websites.

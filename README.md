@@ -5,12 +5,12 @@ I’m Kevin, a full Stack Web developer with a leveraging background in Civil En
 Interested in collaborating in group projects and developing full stack websites.
 
 -📫 How to reach me?
-[![Linkedin Badge](https://img.shields.io/badge/-Kevin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-peng-3299b41a2/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Kevin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-peng-3299b41a2/) [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kpeng.work1@gmail.com)
 
--👀 Checkout my portfolio: https://cn-kp.github.io/Updated-Portfolio/ and my LinkedIn: https://www.linkedin.com/in/kevin-peng-3299b41a2/
+-👀 Checkout my portfolio: https://cn-kp.github.io/Updated-Portfolio/
 
 <!---
 cn-kp/cn-kp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+

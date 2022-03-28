@@ -6,7 +6,7 @@ Interested in collaborating in group projects and developing full stack websites
 
 📫 How to reach me?
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kevin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-peng-3299b41a2/) [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kpeng.work1@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Kevin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-peng-3299b41a2/) [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kpeng.work1@gmail.com) [![Portfolio]([![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kpeng.work1@gmail.com) )](https://cn-kp.github.io/Updated-Portfolio/) 
 
 -👀 Checkout my portfolio: https://cn-kp.github.io/Updated-Portfolio/
 

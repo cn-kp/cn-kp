@@ -22,9 +22,9 @@ Interested in collaborating in group projects and developing full stack websites
   More stuff about me
 </summary>
 
-  My Favourite kill time is watching anime, playing games or Youtube
  
 <br >
+    My Favourite kill time is watching anime, playing games or Youtube
 </details>
 <!---
 cn-kp/cn-kp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

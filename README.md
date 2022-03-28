@@ -15,7 +15,7 @@ Interested in collaborating in group projects and developing full stack websites
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![MondoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)[![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
 
 #### Resume
-- :paperclip: [My Resume/CV](link to resume here)
+- :paperclip: [My Resume/CV](https://docs.google.com/document/d/1PhsgBssiQpzdvxfw5CCD6p3AVJWcIpYM/edit?usp=sharing&ouid=118404696842622193886&rtpof=true&sd=true)
 
 <details>
 <summary>
